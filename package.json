@@ -1,10 +1,8 @@
 {
-  "name": "onvif-nvt-snapshot-vue-sample",
-  "productName": "Onvif NVT Snapshot Sample using Vue and Quasarframework",
+  "name": "ONVIF",
   "version": "0.0.1",
   "private": true,
-  "description": "Sample code using Vue/Quasar to display snapshots from an ONVIF camera.",
-  "author": "Jeff Galbraith <jeff.galbraith@xendra.com>",
+  "author": "besthappy619@gmail.com",
   "scripts": {
     "clean": "node build/script.clean.js",
     "dev": "node build/script.dev.js",
